@@ -1,6 +1,6 @@
 # BracketsChecker
 
-C# console application that takes a string argument and returns whether or not characters in the string have matching brackets. Meaning for every { there is a corresponding } bracket. Returns Trus if they do, otherwise returns False.
+C# console application that takes a string argument and returns whether or not characters in the string have matching brackets. Meaning for every { there is a corresponding } bracket. Returns True if they do, otherwise returns False.
 
 ![image](https://user-images.githubusercontent.com/12206702/213466998-04405023-67de-42a6-ab4f-dabf6313ecfa.png)
 
